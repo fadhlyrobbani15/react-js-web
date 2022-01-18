@@ -1,0 +1,20 @@
+
+#contact{
+    background-color: rgba(255, 206, 160, 0.986);
+}
+.portofolio-card, .service-card, .blog-card, footer i{
+    transition: all 0.5s ease-out;
+}
+.portofolio-card:hover, .service-card:hover, .blog-card:hover, footer i:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#contact .container h1, #contact .container p {
+    color: black;
+}
+.form-group{
+    color: black;
+}
+.btn{
+    color: black;
+}

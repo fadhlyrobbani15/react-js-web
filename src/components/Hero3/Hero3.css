@@ -1,0 +1,12 @@
+#portofolio {
+    background-color: black;
+}
+#portofolio h1, #portofolio p {
+    color: aliceblue;
+}
+#portofolio .row .portofolio-card h5{
+    color: aliceblue;
+}
+#portofolio .row .portofolio-card p{
+    color: aliceblue;
+}
